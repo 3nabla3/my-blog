@@ -1,0 +1,5 @@
+baseURL = 'https://3nabla3.github.io/my-blog/'
+locale = 'en-us'
+title = 'My Blog'
+theme = 'PaperMod'
+
