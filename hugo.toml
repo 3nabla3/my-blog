@@ -3,3 +3,7 @@ locale = 'en-us'
 title = 'My Blog'
 theme = 'PaperMod'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
