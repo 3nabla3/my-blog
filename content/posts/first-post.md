@@ -5,3 +5,5 @@ draft: false
 ---
 
 Hello world. This is my first post.
+
+{{< image src="images/sample.png" alt="Sample gradient image with the text My Blog" width="800" >}}
