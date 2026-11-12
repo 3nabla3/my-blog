@@ -1,4 +1,4 @@
-baseURL = 'https://3nabla3.github.io/my-blog/'
+baseURL = 'https://www.alban.sh/'
 locale = 'en-us'
 title = 'My Blog'
 theme = 'PaperMod'
